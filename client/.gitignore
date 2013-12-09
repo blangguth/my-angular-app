@@ -1,2 +1,9 @@
 node_modules
 dist
+vendor/angular
+vendor/angular-cookies
+vendor/angular-mocks
+vendor/angular-resource
+vendor/angular-route
+vendor/angular-sanitize
+vendor/angular-scenario
